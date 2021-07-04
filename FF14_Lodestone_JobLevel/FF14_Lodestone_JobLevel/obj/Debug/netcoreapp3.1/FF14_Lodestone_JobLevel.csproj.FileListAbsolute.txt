@@ -1,0 +1,16 @@
+C:\Users\guxtu\source\repos\FF14_Lodestone_JobLevel\FF14_Lodestone_JobLevel\bin\Debug\netcoreapp3.1\FF14_Lodestone_JobLevel.exe
+C:\Users\guxtu\source\repos\FF14_Lodestone_JobLevel\FF14_Lodestone_JobLevel\bin\Debug\netcoreapp3.1\FF14_Lodestone_JobLevel.deps.json
+C:\Users\guxtu\source\repos\FF14_Lodestone_JobLevel\FF14_Lodestone_JobLevel\bin\Debug\netcoreapp3.1\FF14_Lodestone_JobLevel.runtimeconfig.json
+C:\Users\guxtu\source\repos\FF14_Lodestone_JobLevel\FF14_Lodestone_JobLevel\bin\Debug\netcoreapp3.1\FF14_Lodestone_JobLevel.runtimeconfig.dev.json
+C:\Users\guxtu\source\repos\FF14_Lodestone_JobLevel\FF14_Lodestone_JobLevel\bin\Debug\netcoreapp3.1\FF14_Lodestone_JobLevel.dll
+C:\Users\guxtu\source\repos\FF14_Lodestone_JobLevel\FF14_Lodestone_JobLevel\bin\Debug\netcoreapp3.1\FF14_Lodestone_JobLevel.pdb
+C:\Users\guxtu\source\repos\FF14_Lodestone_JobLevel\FF14_Lodestone_JobLevel\obj\Debug\netcoreapp3.1\FF14_Lodestone_JobLevel.csprojAssemblyReference.cache
+C:\Users\guxtu\source\repos\FF14_Lodestone_JobLevel\FF14_Lodestone_JobLevel\obj\Debug\netcoreapp3.1\FF14_Lodestone_JobLevel.Main_Form.resources
+C:\Users\guxtu\source\repos\FF14_Lodestone_JobLevel\FF14_Lodestone_JobLevel\obj\Debug\netcoreapp3.1\FF14_Lodestone_JobLevel.Sub_Form.resources
+C:\Users\guxtu\source\repos\FF14_Lodestone_JobLevel\FF14_Lodestone_JobLevel\obj\Debug\netcoreapp3.1\FF14_Lodestone_JobLevel.csproj.GenerateResource.cache
+C:\Users\guxtu\source\repos\FF14_Lodestone_JobLevel\FF14_Lodestone_JobLevel\obj\Debug\netcoreapp3.1\FF14_Lodestone_JobLevel.AssemblyInfoInputs.cache
+C:\Users\guxtu\source\repos\FF14_Lodestone_JobLevel\FF14_Lodestone_JobLevel\obj\Debug\netcoreapp3.1\FF14_Lodestone_JobLevel.AssemblyInfo.cs
+C:\Users\guxtu\source\repos\FF14_Lodestone_JobLevel\FF14_Lodestone_JobLevel\obj\Debug\netcoreapp3.1\FF14_Lodestone_JobLevel.csproj.CoreCompileInputs.cache
+C:\Users\guxtu\source\repos\FF14_Lodestone_JobLevel\FF14_Lodestone_JobLevel\obj\Debug\netcoreapp3.1\FF14_Lodestone_JobLevel.dll
+C:\Users\guxtu\source\repos\FF14_Lodestone_JobLevel\FF14_Lodestone_JobLevel\obj\Debug\netcoreapp3.1\FF14_Lodestone_JobLevel.pdb
+C:\Users\guxtu\source\repos\FF14_Lodestone_JobLevel\FF14_Lodestone_JobLevel\obj\Debug\netcoreapp3.1\FF14_Lodestone_JobLevel.genruntimeconfig.cache
